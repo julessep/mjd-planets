@@ -1,8 +1,27 @@
 'use strict';
 
 let $ = require("jquery");
+// let Handlebars = require('hbsfy/runtime');
 
 let domElement = $("#domElement");
+
+// let planetsTemplate = require('../templates/planets.hbs');
+// $(document).ready( function(){
+// 	$.ajax({
+// 		url: "data/planets.json"
+// 	})
+// 	.done( function(planets){
+// 		printPlanets(planets);
+// 		console.log('hi');
+// 	})
+// 	.fail( function(error){
+// 		console.log('!', error.responseText);
+// 	});
+// });
+
+// function printPlanets(planets) {
+// 	$("#domElement").append(planetsTemplate(planets));
+// }
 
 let planetsPrint = {
 	mercury: require("./mercury"),

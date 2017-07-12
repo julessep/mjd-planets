@@ -9,7 +9,7 @@ let neptuneInfo =
 		<p>Mass: 102,410,000,000,000,000 billion kg</p>
 		<p>Equitorial Diameter: 49,528 km</p>
 		<p>Distance from Sun: 4.498 billion km</p>
-		<p>Atmosphere: 80% nitrogen 19% helium</p>
+		<p>Surface Temperature: -201 °C</p>
 		<p>Known Moons: 14</p>
 		<p>Orbiting Satellites: None</p>
 	</div>`;

@@ -9,7 +9,7 @@ let mercuryInfo =
 		<p>Mass: 330,104,000,000,000 billion kg</p>
 		<p>Equitorial Diameter: 4,879 km</p>
 		<p>Distance from Sun: 4.498 billion km</p>
-		<p>Atmosphere: Mercury has a very thin atmosphere, which is made up of atoms from the surface of the planet that have been blown away by solar winds. </p>
+		<p>Surface Temperature: -197 °C</p>
 		<p>Known Moons: None</p>
 		<p>Orbiting Satellites: 1</p>
 	</div>`;

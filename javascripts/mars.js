@@ -9,7 +9,7 @@ let marsInfo =
 			<p>Mass: 641,693,000,000,000 billion kg</p>
 			<p>Equitorial Diameter: 120,536 km</p>
 			<p>Distance from Sun: 227,940,000 km</p>
-			<p>Atmosphere: mainly carbon dioxide</p>
+			<p>Surface Temperature: -108 °C</p>
 			<p>Known Moons: 2</p>
 			<p>Orbiting Satellites: 6</p>
 	</div>`;
